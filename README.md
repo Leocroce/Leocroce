@@ -1,4 +1,4 @@
-### Hello 👋 I'm Leo!
+## Hello 👋 I'm Leo!
 
 <br>
 <br>
