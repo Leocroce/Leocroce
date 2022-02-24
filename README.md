@@ -1,5 +1,8 @@
 ### Hello 👋 I'm Leo!
 
+<br>
+<br>
+
 :computer: I'm a Fullstack Developer in training at SoulCode Academy!
 
 :house_with_garden: I’m from São José dos Campos, São Paulo, Brazil.
