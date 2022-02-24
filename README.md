@@ -1,7 +1,6 @@
 ## Hello 👋 I'm Leo!
 
 <br>
-<br>
 
 :computer: I'm a Fullstack Developer in training at SoulCode Academy!
 
@@ -15,12 +14,14 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leocroce)](https://github.com/Leocroce)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-croce/)](https://www.linkedin.com/in/leonardo-croce/)
-
+<br>
 
 ## Languages and Tools:
 
 [![Leocroce GitHub stats](https://github-readme-stats.vercel.app/api?username=Leocroce)](https://github.com/Leocroce/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leocroce&layout=compact)](https://github.com/Leocroce/github-readme-stats)
+
+<br>
 
 <p align="left">
 <img height="20"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -37,9 +38,7 @@
 <img height="20"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-
-
-
+<br>
 
 Thanks for visiting.
 
