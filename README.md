@@ -2,13 +2,12 @@
 
 <br>
 
-:computer: I'm a Fullstack Developer in training at SoulCode Academy!
+:computer: I'm a Fullstack Web Developer!
 
 :house_with_garden: I’m from São José dos Campos, São Paulo, Brazil.
 
-:books: I’m currently learning NodeJs, Angular, Express, MySQL, MongoDB.
+:books: I’m currently building projects with: NodeJs, Angular, Express, MySQL, MongoDB.
 
-⚡ Fun fact: I've worked as a financial advisor, and a tax consultant, but I've been migrating to the tech world since mid 2021.
 
 ## About me
 
