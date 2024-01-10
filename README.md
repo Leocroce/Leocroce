@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from São José dos Campos, São Paulo, Brazil.
 
-:books: I’m currently building projects with: NodeJs, Angular, Express, MySQL, MongoDB.
+:books: I’m currently building projects with: NodeJs, Angular, Express, MySQL, MongoDB, PostgreSQL, Phyton and Django.
 
 
 ## About me
