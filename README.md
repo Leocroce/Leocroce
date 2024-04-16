@@ -2,17 +2,19 @@
 
 <br>
 
-:computer: I'm a Mid Level Software Developer!
+:computer: I'm a Mid Level Software Developer | AWS Certified!
+
+:books: Currently studying Terraform | Kubernetes | AWS Services | Jenkins
 
 :house_with_garden: I’m from São José dos Campos, São Paulo, Brazil.
 
-:books: I’m currently working with: NodeJs, Angular, Typescript, MySQL, MongoDB, PostgreSQL, Phyton and Django.
+:briefcase: I’m currently working with: NodeJs, Angular, Typescript, MySQL, MongoDB, PostgreSQL, Phyton and Django.
 
 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leocroce)](https://github.com/Leocroce)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-croce/)](https://www.linkedin.com/in/leonardo-croce/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-full-stack-web-developer/?locale=en_US)](https://www.linkedin.com/in/leonardo-full-stack-web-developer/?locale=en_US)
 <br>
 
 ## Languages and Tools:
