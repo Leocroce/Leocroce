@@ -2,11 +2,11 @@
 
 <br>
 
-:computer: I'm a Fullstack Web Developer!
+:computer: I'm a Mid Level Software Developer!
 
 :house_with_garden: I’m from São José dos Campos, São Paulo, Brazil.
 
-:books: I’m currently building projects with: NodeJs, Angular, Express, MySQL, MongoDB, PostgreSQL, Phyton and Django.
+:books: I’m currently working with: NodeJs, Angular, Typescript, MySQL, MongoDB, PostgreSQL, Phyton and Django.
 
 
 ## About me
