@@ -8,7 +8,7 @@
 
 :house_with_garden: I’m from São José dos Campos, São Paulo, Brazil.
 
-:briefcase: I’m currently working with: NodeJs, Angular, Typescript, MySQL, MongoDB, PostgreSQL, Phyton and Django.
+:briefcase: I’m currently working with: NodeJs, Angular, Typescript, MySQL, MongoDB, PostgreSQL, Python and Django.
 
 
 ## About me
